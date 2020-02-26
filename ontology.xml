@@ -1,0 +1,1127 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="https://data.vlaanderen.be/ns/adres#"
+     xml:base="https://data.vlaanderen.be/ns/adres"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:vann="http://purl.org/vocab/vann/"
+     xmlns:terms="http://purl.org/dc/terms/"
+     xmlns:schema="http://schema.org/">
+    <owl:Ontology rdf:about="https://data.vlaanderen.be/ns/adres">
+        <terms:contributor rdf:resource="_:genid-nodeid-g47239574447240"/>
+        <terms:contributor rdf:resource="_:genid-nodeid-g47239575576140"/>
+        <terms:contributor rdf:resource="_:genid-nodeid-g47239576880300"/>
+        <terms:contributor rdf:resource="_:genid-nodeid-g47239579054580"/>
+        <terms:contributor rdf:resource="_:genid-nodeid-g47239579202420"/>
+        <terms:contributor rdf:resource="_:genid-nodeid-g47239579233260"/>
+        <terms:contributor rdf:resource="_:genid-nodeid-g47239579854400"/>
+        <terms:contributor rdf:resource="_:genid-nodeid-g47239579900500"/>
+        <terms:contributor rdf:resource="_:genid-nodeid-g47239579932060"/>
+        <terms:contributor rdf:resource="_:genid-nodeid-g47239580185120"/>
+        <terms:contributor rdf:resource="_:genid-nodeid-g47239580381420"/>
+        <terms:contributor rdf:resource="_:genid-nodeid-g47239580453100"/>
+        <terms:contributor rdf:resource="_:genid-nodeid-g47239580518100"/>
+        <terms:contributor rdf:resource="_:genid-nodeid-g47239580734160"/>
+        <terms:contributor rdf:resource="_:genid-nodeid-g47239580892120"/>
+        <terms:contributor rdf:resource="_:genid-nodeid-g47239580899100"/>
+        <terms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-10-04</terms:issued>
+        <terms:license rdf:resource="https://overheid.vlaanderen.be/sites/default/files/documenten/ict-egov/licenties/hergebruik/modellicentie_gratis_hergebruik_v1_0.html"/>
+        <terms:mediator rdf:resource="_:genid-nodeid-g47239579122700"/>
+        <terms:title xml:lang="en">Address</terms:title>
+        <terms:title xml:lang="nl">Adres</terms:title>
+        <vann:preferredNamespaceUri>https://data.vlaanderen.be/ns/adres</vann:preferredNamespaceUri>
+        <rdfs:label xml:lang="en">Address</rdfs:label>
+        <rdfs:label xml:lang="nl">Adres</rdfs:label>
+        <foaf:maker rdf:resource="_:genid-nodeid-g47239579632040"/>
+        <foaf:maker rdf:resource="_:genid-nodeid-g47239580048400"/>
+        <foaf:maker rdf:resource="_:genid-nodeid-g47239580380800"/>
+        <foaf:maker rdf:resource="_:genid-nodeid-g47239580730780"/>
+        <foaf:maker rdf:resource="_:genid-nodeid-g47239581905000"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://purl.org/dc/terms/contributor -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/contributor"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/issued -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/issued"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/license -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/license"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/mediator -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/mediator"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/title -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/title"/>
+    
+
+
+    <!-- http://purl.org/vocab/vann/preferredNamespaceUri -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/vocab/vann/preferredNamespaceUri"/>
+    
+
+
+    <!-- http://purl.org/vocab/vann/usageNote -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/vocab/vann/usageNote"/>
+    
+
+
+    <!-- http://schema.org/affiliation -->
+
+
+    <owl:AnnotationProperty rdf:about="http://schema.org/affiliation"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/firstName -->
+
+
+    <owl:AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/firstName"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/homepage -->
+
+
+    <owl:AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/homepage"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/lastName -->
+
+
+    <owl:AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/lastName"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/maker -->
+
+
+    <owl:AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/maker"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/mbox -->
+
+
+    <owl:AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/mbox"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/name -->
+
+
+    <owl:AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/name"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://www.w3.org/ns/locn#geometry -->
+
+
+    <owl:ObjectProperty rdf:about="http://www.w3.org/ns/locn#geometry"/>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#Adres.status -->
+
+
+    <owl:ObjectProperty rdf:about="https://data.vlaanderen.be/ns/adres#Adres.status">
+        <rdfs:domain rdf:resource="https://data.vlaanderen.be/ns/adres#Adres"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <vann:usageNote xml:lang="nl"></vann:usageNote>
+        <rdfs:comment xml:lang="nl">Actuele toestand van het adres.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">status</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#Locatieaanduiding.type -->
+
+
+    <owl:ObjectProperty rdf:about="https://data.vlaanderen.be/ns/adres#Locatieaanduiding.type">
+        <rdfs:domain rdf:resource="https://data.vlaanderen.be/ns/adres#Locatieaanduiding"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <vann:usageNote xml:lang="nl"></vann:usageNote>
+        <rdfs:comment xml:lang="nl">Aard vd locatieaanduiding.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">type</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#Locatienaam.type -->
+
+
+    <owl:ObjectProperty rdf:about="https://data.vlaanderen.be/ns/adres#Locatienaam.type">
+        <rdfs:domain rdf:resource="https://data.vlaanderen.be/ns/adres#Locatienaam"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <vann:usageNote xml:lang="nl"></vann:usageNote>
+        <rdfs:comment xml:lang="nl">Aard vh geografisch object.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">type</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#Straatnaam.status -->
+
+
+    <owl:ObjectProperty rdf:about="https://data.vlaanderen.be/ns/adres#Straatnaam.status">
+        <rdfs:domain rdf:resource="https://data.vlaanderen.be/ns/adres#Straatnaam"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <vann:usageNote xml:lang="nl"></vann:usageNote>
+        <rdfs:comment xml:lang="nl">Actuele toestand van de straatnaam.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">status</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#aanduiding -->
+
+
+    <owl:ObjectProperty rdf:about="https://data.vlaanderen.be/ns/adres#aanduiding">
+        <rdfs:domain rdf:resource="https://data.vlaanderen.be/ns/adres#Adreslocator"/>
+        <rdfs:range rdf:resource="https://data.vlaanderen.be/ns/adres#Locatieaanduiding"/>
+        <vann:usageNote xml:lang="nl"></vann:usageNote>
+        <rdfs:comment xml:lang="nl">Alfanumerieke code die de locator uniek identificeert binnen de straat, administratieve eenheid etc.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">aanduiding</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#adresIsGelegenIn -->
+
+
+    <owl:ObjectProperty rdf:about="https://data.vlaanderen.be/ns/adres#adresIsGelegenIn">
+        <rdfs:domain rdf:resource="https://data.vlaanderen.be/ns/adres#Adresuitbreiding"/>
+        <rdfs:range rdf:resource="http://purl.org/dc/terms/Location"/>
+        <vann:usageNote xml:lang="nl"></vann:usageNote>
+        <rdfs:comment xml:lang="nl">Plaats of gebied waarbinnen het Adres gelegen is.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">is gelegen in</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#adreslocator -->
+
+
+    <owl:ObjectProperty rdf:about="https://data.vlaanderen.be/ns/adres#adreslocator">
+        <rdfs:domain rdf:resource="https://data.vlaanderen.be/ns/adres#Adresuitbreiding"/>
+        <rdfs:range rdf:resource="https://data.vlaanderen.be/ns/adres#Adreslocator"/>
+        <vann:usageNote xml:lang="nl"></vann:usageNote>
+        <rdfs:comment xml:lang="nl">Bijkomende adreslocator.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">adreslocator</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#heeftGemeentenaam -->
+
+
+    <owl:ObjectProperty rdf:about="https://data.vlaanderen.be/ns/adres#heeftGemeentenaam">
+        <rdfs:domain rdf:resource="https://data.vlaanderen.be/ns/adres#Adres"/>
+        <rdfs:range rdf:resource="https://data.vlaanderen.be/ns/adres#Gemeentenaam"/>
+        <vann:usageNote xml:lang="nl"></vann:usageNote>
+        <rdfs:comment xml:lang="nl">Gemeentenaamcomponent van het adres.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">heeft gemeentenaam</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#heeftPostinfo -->
+
+
+    <owl:ObjectProperty rdf:about="https://data.vlaanderen.be/ns/adres#heeftPostinfo">
+        <rdfs:domain rdf:resource="https://data.vlaanderen.be/ns/adres#Adres"/>
+        <rdfs:range rdf:resource="https://data.vlaanderen.be/ns/adres#Postinfo"/>
+        <vann:usageNote xml:lang="nl"></vann:usageNote>
+        <rdfs:comment xml:lang="nl">Postinfocomponent van het adres.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">heeft postinfo</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#heeftStraatnaam -->
+
+
+    <owl:ObjectProperty rdf:about="https://data.vlaanderen.be/ns/adres#heeftStraatnaam">
+        <rdfs:domain rdf:resource="https://data.vlaanderen.be/ns/adres#Adres"/>
+        <rdfs:range rdf:resource="https://data.vlaanderen.be/ns/adres#Straatnaam"/>
+        <vann:usageNote xml:lang="nl"></vann:usageNote>
+        <rdfs:comment xml:lang="nl">Straatnaamcomponent van het adres.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">heeft straatnaam</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#isAfgeleidVan -->
+
+
+    <owl:ObjectProperty rdf:about="https://data.vlaanderen.be/ns/adres#isAfgeleidVan">
+        <rdfs:domain rdf:resource="https://data.vlaanderen.be/ns/adres#Gemeentenaam"/>
+        <rdfs:range rdf:resource="https://data.vlaanderen.be/ns/generiek#Gemeente"/>
+        <vann:usageNote xml:lang="nl"></vann:usageNote>
+        <rdfs:comment xml:lang="nl">Gemeente waarvan de gemeentenaam is afgeleid.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">is afgeleid van</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#isToegekendAan -->
+
+
+    <owl:ObjectProperty rdf:about="https://data.vlaanderen.be/ns/adres#isToegekendAan">
+        <rdfs:domain rdf:resource="https://data.vlaanderen.be/ns/adres#Adres"/>
+        <rdfs:range rdf:resource="https://data.vlaanderen.be/ns/adres#AdresseerbaarObject"/>
+        <vann:usageNote xml:lang="nl"></vann:usageNote>
+        <rdfs:comment xml:lang="nl">Adresseerbaar object waaraan het adres is toegekend.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">is toegekend aan</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#isVerrijktMet -->
+
+
+    <owl:ObjectProperty rdf:about="https://data.vlaanderen.be/ns/adres#isVerrijktMet">
+        <rdfs:domain rdf:resource="https://data.vlaanderen.be/ns/adres#Adres"/>
+        <rdfs:range rdf:resource="https://data.vlaanderen.be/ns/adres#Adresuitbreiding"/>
+        <vann:usageNote xml:lang="nl"></vann:usageNote>
+        <rdfs:comment xml:lang="nl">Verwijzing naar een adresuitbreiding.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">is verrijkt met</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#naam -->
+
+
+    <owl:ObjectProperty rdf:about="https://data.vlaanderen.be/ns/adres#naam">
+        <rdfs:domain rdf:resource="https://data.vlaanderen.be/ns/adres#Adreslocator"/>
+        <rdfs:range rdf:resource="https://data.vlaanderen.be/ns/adres#Locatienaam"/>
+        <rdfs:comment xml:lang="nl">Naam of omschrijving vh het geografisch object dat de locator aanduidt.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">label</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#niveau -->
+
+
+    <owl:ObjectProperty rdf:about="https://data.vlaanderen.be/ns/adres#niveau">
+        <rdfs:domain rdf:resource="https://data.vlaanderen.be/ns/adres#Adreslocator"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <vann:usageNote xml:lang="nl">Waarbij het niveau staat voor de geografische granulariteit vd locator: zo verwijzen locators vh type huisnummer doorgaans naar het gebouw terwijl busnummers naar een deel vh gebouw verwijzen.</vann:usageNote>
+        <rdfs:comment xml:lang="nl">Het niveau waarnaar de locator verwijst.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">niveau</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#positie -->
+
+
+    <owl:ObjectProperty rdf:about="https://data.vlaanderen.be/ns/adres#positie">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/ns/locn#geometry"/>
+        <rdfs:domain rdf:resource="https://data.vlaanderen.be/ns/adres#Adres"/>
+        <rdfs:range rdf:resource="https://data.vlaanderen.be/ns/generiek#GeografischePositie"/>
+        <vann:usageNote xml:lang="nl">Moet een punt zijn.</vann:usageNote>
+        <rdfs:comment xml:lang="nl">Positie van een karakeristiek punt dat de positie van het adres vertegenwoordigt volgens een bepaalde specificatie en inclusief informatie over de herkomst van de positie.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">positie</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#verwijstNaar -->
+
+
+    <owl:ObjectProperty rdf:about="https://data.vlaanderen.be/ns/adres#verwijstNaar">
+        <rdfs:domain rdf:resource="http://www.w3.org/ns/locn#Address"/>
+        <rdfs:range rdf:resource="https://data.vlaanderen.be/ns/adres#Adres"/>
+        <vann:usageNote xml:lang="nl">Dit kan enkel voor Belgische adressen aangezien onder adres een Belgisch adres wordt verstaan.</vann:usageNote>
+        <rdfs:comment xml:lang="nl">Adres waarvan de adresvoorstelling is afgeleid.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">verwijst naar</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://www.w3.org/ns/locn#adminUnitL1 -->
+
+
+    <owl:DatatypeProperty rdf:about="http://www.w3.org/ns/locn#adminUnitL1">
+        <rdfs:label xml:lang="nl">administratieve eenheid niveau 1</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.w3.org/ns/locn#locatorDesignator -->
+
+
+    <owl:DatatypeProperty rdf:about="http://www.w3.org/ns/locn#locatorDesignator">
+        <rdfs:label xml:lang="nl">locatieaanduiding</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.w3.org/ns/locn#postName -->
+
+
+    <owl:DatatypeProperty rdf:about="http://www.w3.org/ns/locn#postName">
+        <rdfs:label xml:lang="nl">postnaam</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#Adresvoorstelling.busnummer -->
+
+
+    <owl:DatatypeProperty rdf:about="https://data.vlaanderen.be/ns/adres#Adresvoorstelling.busnummer">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/ns/locn#locatorDesignator"/>
+        <rdfs:domain rdf:resource="http://www.w3.org/ns/locn#Address"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <vann:usageNote xml:lang="nl">Specialisatie van Adresvoorstelling:locatieaanduiding tbv Belgische adressen.</vann:usageNote>
+        <rdfs:comment xml:lang="nl">Officieel toegekende alfanumerieke code die wordt toegevoegd aan het huisnummer om meerdere gebouweenheden, standplaatsen, ligplaatsen of percelen te onderscheiden die eenzelfde huisnummer hebben.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">busnummer</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#Adresvoorstelling.huisnummer -->
+
+
+    <owl:DatatypeProperty rdf:about="https://data.vlaanderen.be/ns/adres#Adresvoorstelling.huisnummer">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/ns/locn#locatorDesignator"/>
+        <rdfs:domain rdf:resource="http://www.w3.org/ns/locn#Address"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <vann:usageNote xml:lang="nl">Specialisatie van Adresvoorstelling:locatieaanduiding tbv Belgische adressen.</vann:usageNote>
+        <rdfs:comment xml:lang="nl">Alfanumerieke code officieel toegekend aan gebouweenheden, ligplaatsen, standplaatsen of percelen.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">huisnummer</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#Locatieaanduiding.aanduiding -->
+
+
+    <owl:DatatypeProperty rdf:about="https://data.vlaanderen.be/ns/adres#Locatieaanduiding.aanduiding">
+        <rdfs:domain rdf:resource="https://data.vlaanderen.be/ns/adres#Locatieaanduiding"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <vann:usageNote xml:lang="nl"></vann:usageNote>
+        <rdfs:comment xml:lang="nl">Alfanumerieke code waarmee het identificerend deel van een adreslocator wordt aangeduid.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">aanduiding</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#busnummer -->
+
+
+    <owl:DatatypeProperty rdf:about="https://data.vlaanderen.be/ns/adres#busnummer">
+        <rdfs:domain rdf:resource="https://data.vlaanderen.be/ns/adres#Adres"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <vann:usageNote xml:lang="nl"></vann:usageNote>
+        <rdfs:comment xml:lang="nl">Officieel toegekende alfanumerieke code die wordt toegevoegd aan het huisnummer om meerdere gebouweenheden, standplaatsen, ligplaatsen of percelen te onderscheiden die eenzelfde huisnummer hebben.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">busnummer</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#gemeentenaam -->
+
+
+    <owl:DatatypeProperty rdf:about="https://data.vlaanderen.be/ns/adres#gemeentenaam">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/ns/locn#postName"/>
+        <rdfs:domain rdf:resource="http://www.w3.org/ns/locn#Address"/>
+        <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"/>
+        <vann:usageNote xml:lang="nl"></vann:usageNote>
+        <rdfs:comment xml:lang="nl">Gemeentenaam vh adres.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">gemeentenaam</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#homoniemToevoeging -->
+
+
+    <owl:DatatypeProperty rdf:about="https://data.vlaanderen.be/ns/adres#homoniemToevoeging">
+        <rdfs:domain rdf:resource="https://data.vlaanderen.be/ns/adres#Straatnaam"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <vann:usageNote xml:lang="nl"></vann:usageNote>
+        <rdfs:comment xml:lang="nl">Toevoeging om dubbele straatnamen (straatnamen met dezelfde naam maar andere ligging in de gemeente en eigen adressen) van elkaar te onderscheiden.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">homoniemtoevoeging</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#huisnummer -->
+
+
+    <owl:DatatypeProperty rdf:about="https://data.vlaanderen.be/ns/adres#huisnummer">
+        <rdfs:domain rdf:resource="https://data.vlaanderen.be/ns/adres#Adres"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <vann:usageNote xml:lang="nl"></vann:usageNote>
+        <rdfs:comment xml:lang="nl">Alfanumerieke code officieel toegekend aan gebouweenheden, ligplaatsen, standplaatsen of percelen.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">huisnummer</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#land -->
+
+
+    <owl:DatatypeProperty rdf:about="https://data.vlaanderen.be/ns/adres#land">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/ns/locn#adminUnitL1"/>
+        <rdfs:domain rdf:resource="http://www.w3.org/ns/locn#Address"/>
+        <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"/>
+        <vann:usageNote xml:lang="nl"></vann:usageNote>
+        <rdfs:comment xml:lang="nl">Land waarin het adres gelegen is.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">land</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#officieelToegekend -->
+
+
+    <owl:DatatypeProperty rdf:about="https://data.vlaanderen.be/ns/adres#officieelToegekend">
+        <rdfs:domain rdf:resource="https://data.vlaanderen.be/ns/adres#Adres"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#boolean"/>
+        <vann:usageNote xml:lang="nl">Een adres is niet-officieel wanneer het bestaan ervan niet gekend was vanuit de administratieve procedures, maar pas nadat nadat het feitelijk is vastgesteld op het terrein.</vann:usageNote>
+        <rdfs:comment xml:lang="nl">Geeft aan of het adres officieel door de adresbeheerder is toegekend.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">officieel toegekend</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#postcode -->
+
+
+    <owl:DatatypeProperty rdf:about="https://data.vlaanderen.be/ns/adres#postcode">
+        <rdfs:domain rdf:resource="https://data.vlaanderen.be/ns/adres#Postinfo"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <vann:usageNote xml:lang="nl"></vann:usageNote>
+        <rdfs:comment xml:lang="nl">Code waarmee het geografisch gebied dat de adressen voor postale doeleinden groepeert aanduidt.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">postcode</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#postnaam -->
+
+
+    <owl:DatatypeProperty rdf:about="https://data.vlaanderen.be/ns/adres#postnaam">
+        <rdfs:domain rdf:resource="https://data.vlaanderen.be/ns/adres#Postinfo"/>
+        <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"/>
+        <vann:usageNote xml:lang="nl">Typisch de namen van vroegere gemeenten waarmee het gebied samenvalt.</vann:usageNote>
+        <rdfs:comment xml:lang="nl">Naam waarmee het geografisch gebied dat de adressen voor postale doeleinden groepeert kan worden aangeduid.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">postnaam</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#volledigAdres -->
+
+
+    <owl:DatatypeProperty rdf:about="https://data.vlaanderen.be/ns/adres#volledigAdres">
+        <rdfs:domain rdf:resource="https://data.vlaanderen.be/ns/adres#Adresuitbreiding"/>
+        <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"/>
+        <vann:usageNote xml:lang="nl">Vermijdt fouten tgv het opsplitsen ve adres in zijn onderdelen. Geeft de voorgeschreven volgorde vd verschillende onderdelen weer.</vann:usageNote>
+        <rdfs:comment xml:lang="nl">Het complete adres in één string, al dan niet geformatteerd.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">volledig adres</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://purl.org/dc/terms/Location -->
+
+
+    <owl:Class rdf:about="http://purl.org/dc/terms/Location"/>
+    
+
+
+    <!-- http://www.w3.org/2004/02/skos/core#Concept -->
+
+
+    <owl:Class rdf:about="http://www.w3.org/2004/02/skos/core#Concept"/>
+    
+
+
+    <!-- http://www.w3.org/ns/locn#Address -->
+
+
+    <owl:Class rdf:about="http://www.w3.org/ns/locn#Address">
+        <rdfs:label xml:lang="nl">Adresvoorstelling</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.w3.org/ns/prov#Entity -->
+
+
+    <owl:Class rdf:about="http://www.w3.org/ns/prov#Entity"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/person -->
+
+
+    <owl:Class rdf:about="http://xmlns.com/foaf/0.1/person"/>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#Adres -->
+
+
+    <owl:Class rdf:about="https://data.vlaanderen.be/ns/adres#Adres">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/ns/prov#Entity"/>
+        <vann:usageNote xml:lang="nl">De definitie heeft betrekking op Belgische adressen. In andere landen kan een adres eventueel verwijzen naar andere geografisch objecten (niet gebouweenheid of perceel) of bestaan uit andere aanduidingen (verschillend van huisnummer en busnummer) of uit andere componenten dan straatnaam, gemeentenaam of postcode. Alternatieve adresaanduidingen dan huisnummer of busnummer (bv ingangaanduiding, trapaanduiding, verdiepaanduiding...) of een gebouwnaam of kamernaam ed zijn mogelijk dmv een associatie met adresuitbreiding. Uitwisseling van buitenlandse adressen moet gebeuren mbv het object adresvoorstelling.</vann:usageNote>
+        <rdfs:comment xml:lang="nl">Informatie die toelaat om op een gestructureerde en unieke manier te verwijzen naar een gebouweenheid, een ligplaats, een standplaats of een perceel op basis van een gemeentenaam, een straatnaam, een huisnummer en eventueel een busnummer en een postcode.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">Belgisch Adres</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#Adreslocator -->
+
+
+    <owl:Class rdf:about="https://data.vlaanderen.be/ns/adres#Adreslocator">
+        <vann:usageNote xml:lang="nl"></vann:usageNote>
+        <rdfs:comment xml:lang="nl">Menselijk leesbare aanduiding of naam die een gebruiker of applicatie toelaat om het adres te onderscheiden van naburige adressen in de straat, de administratieve eenheid etc waarin het adres ligt.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">Adreslocator</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#AdresseerbaarObject -->
+
+
+    <owl:Class rdf:about="https://data.vlaanderen.be/ns/adres#AdresseerbaarObject">
+        <vann:usageNote xml:lang="nl">Is abstract, ttz het type adresseerbaar object moet altijd worden opgegeven (vb gebouweenheid, perceel).</vann:usageNote>
+        <rdfs:comment xml:lang="nl">Geografisch object dat met een adres kan worden geïdentificeerd.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">Adresseerbaar Object</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#Adresuitbreiding -->
+
+
+    <owl:Class rdf:about="https://data.vlaanderen.be/ns/adres#Adresuitbreiding">
+        <vann:usageNote xml:lang="nl">Gegevens die officieel geen deel uitmaken ve adres, bv de verdieping of de provincie</vann:usageNote>
+        <rdfs:comment xml:lang="nl">Bijkomende gegevens mbt het adres.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">Adresuitbreiding</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#Gemeentenaam -->
+
+
+    <owl:Class rdf:about="https://data.vlaanderen.be/ns/adres#Gemeentenaam">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/ns/prov#Entity"/>
+        <vann:usageNote xml:lang="nl"></vann:usageNote>
+        <rdfs:comment xml:lang="nl">Adrescomponent die verwijst naar de naam ve gemeente, ttz het kleinste administratieve deel van het Belgisch grondgebied waarvan de grenzen enkel door de wetgever kunnen worden gewijzigd.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">Gemeentenaam</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#Ligplaats -->
+
+
+    <owl:Class rdf:about="https://data.vlaanderen.be/ns/adres#Ligplaats">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/ns/prov#Entity"/>
+        <rdfs:subClassOf rdf:resource="https://data.vlaanderen.be/ns/adres#AdresseerbaarObject"/>
+        <vann:usageNote xml:lang="nl">Bv plaats voor woonboot.</vann:usageNote>
+        <rdfs:comment xml:lang="nl">Een door het bevoegde gemeentelijke orgaan als zodanig aangewezen plaats in het water al dan niet aangevuld met een op de oever aanwezig terrein of een gedeelte daarvan, die bestemd is voor het permanent afmeren van een voor woon-, bedrijfsmatige of recreatieve doeleinden geschikt vaartuig.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">Ligplaats</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#Locatieaanduiding -->
+
+
+    <owl:Class rdf:about="https://data.vlaanderen.be/ns/adres#Locatieaanduiding">
+        <vann:usageNote xml:lang="nl"></vann:usageNote>
+        <rdfs:comment xml:lang="nl">Alfanumerieke code die een adreslocator uniek identificeert binnen de straat, administratieve eenheid etc.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">Locatieaanduiding</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#Locatienaam -->
+
+
+    <owl:Class rdf:about="https://data.vlaanderen.be/ns/adres#Locatienaam">
+        <vann:usageNote xml:lang="nl">Bvb de naam ve gebouw of deel ve gebouw of de naam ve kamer in een gebouw.</vann:usageNote>
+        <rdfs:comment xml:lang="nl">Naam of omschrijving vh het geografisch object dat een adreslocator aanduidt.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">Locatienaam</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#Postinfo -->
+
+
+    <owl:Class rdf:about="https://data.vlaanderen.be/ns/adres#Postinfo">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/ns/prov#Entity"/>
+        <vann:usageNote xml:lang="nl"></vann:usageNote>
+        <rdfs:comment xml:lang="nl">Adrescomponent die verwijst naar informatie toegekend door de aanbieder van de universele postdienst voor de identificatie van een groepering van adressen in een geografisch gebied voor postale doeleinden.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">Postinfo</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#Standplaats -->
+
+
+    <owl:Class rdf:about="https://data.vlaanderen.be/ns/adres#Standplaats">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/ns/prov#Entity"/>
+        <rdfs:subClassOf rdf:resource="https://data.vlaanderen.be/ns/adres#AdresseerbaarObject"/>
+        <vann:usageNote xml:lang="nl">Bv plaats voor stacaravan.</vann:usageNote>
+        <rdfs:comment xml:lang="nl">Een door het bevoegde gemeentelijke orgaan als zodanig aangewezen terrein of gedeelte daarvan dat bestemd is voor het permanent plaatsen van een niet direct en niet duurzaam met de aarde verbonden en voor woon -, bedrijfsmatige, of recreatieve doeleinden</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">Standplaats</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/adres#Straatnaam -->
+
+
+    <owl:Class rdf:about="https://data.vlaanderen.be/ns/adres#Straatnaam">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/ns/prov#Entity"/>
+        <vann:usageNote xml:lang="nl"></vann:usageNote>
+        <rdfs:comment xml:lang="nl">Adrescomponent met de naam die officieel werd toegekend aan een straat (baan, doorgang, plein) of aan een gehucht en waaraan adressen kunnen zijn gekoppeld.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://data.vlaanderen.be/ns/adres"/>
+        <rdfs:label xml:lang="nl">Straatnaam</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/generiek#Gemeente -->
+
+
+    <owl:Class rdf:about="https://data.vlaanderen.be/ns/generiek#Gemeente"/>
+    
+
+
+    <!-- https://data.vlaanderen.be/ns/generiek#GeografischePositie -->
+
+
+    <owl:Class rdf:about="https://data.vlaanderen.be/ns/generiek#GeografischePositie"/>
+    <rdf:Description rdf:nodeID="genid1">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+        <schema:affiliation>
+            <rdf:Description rdf:nodeID="genid2">
+                <foaf:homepage rdf:resource="http://idlab.ugent.be"/>
+                <foaf:name>imec - UGent</foaf:name>
+            </rdf:Description>
+        </schema:affiliation>
+        <foaf:firstName>Dieter</foaf:firstName>
+        <foaf:lastName>De Paepe</foaf:lastName>
+        <foaf:mbox rdf:resource="mailto:dieter.depaepe@ugent.be"/>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="genid3">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+        <schema:affiliation>
+            <rdf:Description rdf:nodeID="genid4">
+                <foaf:homepage rdf:resource="https://www.leuven.be"/>
+                <foaf:name>Stad Leuven</foaf:name>
+            </rdf:Description>
+        </schema:affiliation>
+        <foaf:firstName>Michaël</foaf:firstName>
+        <foaf:lastName>Sibiet</foaf:lastName>
+        <foaf:mbox rdf:resource="mailto:Michael.Sibiet@leuven.be"/>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="genid5">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+        <schema:affiliation>
+            <rdf:Description rdf:nodeID="genid6">
+                <foaf:homepage rdf:resource="https://www.wonenvlaanderen.be"/>
+                <foaf:name>Wonen-Vlaanderen</foaf:name>
+            </rdf:Description>
+        </schema:affiliation>
+        <foaf:firstName>Olivier</foaf:firstName>
+        <foaf:lastName>Heyvaert</foaf:lastName>
+        <foaf:mbox rdf:resource="mailto:olivier.heyvaert@rwo.vlaanderen.be"/>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="genid7">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+        <schema:affiliation>
+            <rdf:Description rdf:nodeID="genid8">
+                <foaf:homepage rdf:resource="http://idlab.ugent.be"/>
+                <foaf:name>imec - UGent</foaf:name>
+            </rdf:Description>
+        </schema:affiliation>
+        <foaf:firstName>Erik</foaf:firstName>
+        <foaf:lastName>Mannens</foaf:lastName>
+        <foaf:mbox rdf:resource="mailto:erik.mannens@ugent.be"/>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="genid9">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+        <schema:affiliation>
+            <rdf:Description rdf:nodeID="genid10">
+                <foaf:homepage rdf:resource="https://www.vlaamsbrabant.be"/>
+                <foaf:name>Provincie Vlaams-Brabant</foaf:name>
+            </rdf:Description>
+        </schema:affiliation>
+        <foaf:firstName>Ireen</foaf:firstName>
+        <foaf:lastName>Librecht</foaf:lastName>
+        <foaf:mbox rdf:resource="mailto:ireen.librecht@vlaamsbrabant.be"/>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="genid11">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+        <schema:affiliation>
+            <rdf:Description rdf:nodeID="genid12">
+                <foaf:homepage rdf:resource="https://overheid.vlaanderen.be/informatie-vlaanderen"/>
+                <foaf:name>Informatie Vlaanderen</foaf:name>
+            </rdf:Description>
+        </schema:affiliation>
+        <foaf:firstName>Katrien</foaf:firstName>
+        <foaf:lastName>Geerts</foaf:lastName>
+        <foaf:mbox rdf:resource="mailto:katrien.geerts@kb.vlaanderen.be"/>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="genid13">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+        <schema:affiliation>
+            <rdf:Description rdf:nodeID="genid14">
+                <foaf:homepage rdf:resource="http://tenforce.com"/>
+                <foaf:name>Tenforce</foaf:name>
+            </rdf:Description>
+        </schema:affiliation>
+        <foaf:firstName>Bert</foaf:firstName>
+        <foaf:lastName>Van Nuffelen</foaf:lastName>
+        <foaf:mbox rdf:resource="mailto:bert.van.nuffelen@tenforce.com"/>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="genid15">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+        <schema:affiliation>
+            <rdf:Description rdf:nodeID="genid16">
+                <foaf:homepage rdf:resource="https://www.fednot.be"/>
+                <foaf:name>Fednot</foaf:name>
+            </rdf:Description>
+        </schema:affiliation>
+        <foaf:firstName>Paul</foaf:firstName>
+        <foaf:lastName>Verbeeck</foaf:lastName>
+        <foaf:mbox rdf:resource="mailto:Paul.Verbeeck@fednot.be"/>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="genid17">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+        <schema:affiliation>
+            <rdf:Description rdf:nodeID="genid18">
+                <foaf:homepage rdf:resource="https://www.vmm.be"/>
+                <foaf:name>VMM</foaf:name>
+            </rdf:Description>
+        </schema:affiliation>
+        <foaf:firstName>Katleen</foaf:firstName>
+        <foaf:lastName>Miserez</foaf:lastName>
+        <foaf:mbox rdf:resource="mailto:k.miserez@vmm.be"/>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="genid19">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+        <schema:affiliation>
+            <rdf:Description rdf:nodeID="genid20">
+                <foaf:homepage rdf:resource="https://www.telenet.be"/>
+                <foaf:name>Telenet</foaf:name>
+            </rdf:Description>
+        </schema:affiliation>
+        <foaf:firstName>Koen</foaf:firstName>
+        <foaf:lastName>D&apos;Haen</foaf:lastName>
+        <foaf:mbox rdf:resource="mailto:koen.dhaen1@staff.telenet.be"/>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="genid21">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+        <schema:affiliation>
+            <rdf:Description rdf:nodeID="genid22">
+                <foaf:homepage rdf:resource="https://overheid.vlaanderen.be/informatie-vlaanderen"/>
+                <foaf:name>Informatie Vlaanderen</foaf:name>
+            </rdf:Description>
+        </schema:affiliation>
+        <foaf:firstName>Raf</foaf:firstName>
+        <foaf:lastName>Buyle</foaf:lastName>
+        <foaf:mbox rdf:resource="mailto:raf.buyle@kb.vlaanderen.be"/>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="genid23">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+        <schema:affiliation>
+            <rdf:Description rdf:nodeID="genid24">
+                <foaf:homepage rdf:resource="https://www.antwerpen.be"/>
+                <foaf:name>Stad Antwerpen</foaf:name>
+            </rdf:Description>
+        </schema:affiliation>
+        <foaf:firstName>Christiaan</foaf:firstName>
+        <foaf:lastName>Bos</foaf:lastName>
+        <foaf:mbox rdf:resource="mailto:christiaan.bos@stad.antwerpen.be"/>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="genid25">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+        <schema:affiliation>
+            <rdf:Description rdf:nodeID="genid26">
+                <foaf:homepage rdf:resource="http://idlab.ugent.be"/>
+                <foaf:name>imec - UGent</foaf:name>
+            </rdf:Description>
+        </schema:affiliation>
+        <foaf:firstName>Laurens</foaf:firstName>
+        <foaf:lastName>De Vocht</foaf:lastName>
+        <foaf:mbox rdf:resource="mailto:laurens.devocht@ugent.be"/>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="genid27">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+        <schema:affiliation>
+            <rdf:Description rdf:nodeID="genid28">
+                <foaf:homepage rdf:resource="https://www.vmsw.be"/>
+                <foaf:name>VMSW</foaf:name>
+            </rdf:Description>
+        </schema:affiliation>
+        <foaf:firstName>Wout</foaf:firstName>
+        <foaf:lastName>Groniger</foaf:lastName>
+        <foaf:mbox rdf:resource="mailto:Wout.groniger@vmsw.be"/>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="genid29">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+        <schema:affiliation>
+            <rdf:Description rdf:nodeID="genid30">
+                <foaf:homepage rdf:resource="https://stad.gent"/>
+                <foaf:name>Stad Gent</foaf:name>
+            </rdf:Description>
+        </schema:affiliation>
+        <foaf:firstName>Diedrik</foaf:firstName>
+        <foaf:lastName>Gaus</foaf:lastName>
+        <foaf:mbox rdf:resource="mailto:Diedrik.Gaus@stad.gent"/>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="genid31">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+        <schema:affiliation>
+            <rdf:Description rdf:nodeID="genid32">
+                <foaf:homepage rdf:resource="https://overheid.vlaanderen.be/informatie-vlaanderen"/>
+                <foaf:name>Informatie Vlaanderen</foaf:name>
+            </rdf:Description>
+        </schema:affiliation>
+        <foaf:firstName>Barbara</foaf:firstName>
+        <foaf:lastName>Van Broeckhoven</foaf:lastName>
+        <foaf:mbox rdf:resource="mailto:barbara.vanbroeckhoven@kb.vlaanderen.be"/>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="genid33">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+        <schema:affiliation>
+            <rdf:Description rdf:nodeID="genid34">
+                <foaf:homepage rdf:resource="https://overheid.vlaanderen.be/informatie-vlaanderen"/>
+                <foaf:name>Informatie Vlaanderen</foaf:name>
+            </rdf:Description>
+        </schema:affiliation>
+        <foaf:firstName>Jan</foaf:firstName>
+        <foaf:lastName>Laporte</foaf:lastName>
+        <foaf:mbox rdf:resource="mailto:jan.laporte@kb.vlaanderen.be"/>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="genid35">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+        <schema:affiliation>
+            <rdf:Description rdf:nodeID="genid36">
+                <foaf:homepage rdf:resource="https://overheid.vlaanderen.be/informatie-vlaanderen"/>
+                <foaf:name>Informatie Vlaanderen</foaf:name>
+            </rdf:Description>
+        </schema:affiliation>
+        <foaf:firstName>Ziggy</foaf:firstName>
+        <foaf:lastName>Vanlishout</foaf:lastName>
+        <foaf:mbox rdf:resource="mailto:siegfried.vanlishout@kb.vlaanderen.be"/>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="genid37">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+        <schema:affiliation>
+            <rdf:Description rdf:nodeID="genid38">
+                <foaf:homepage rdf:resource="https://overheid.vlaanderen.be/informatie-vlaanderen"/>
+                <foaf:name>Informatie Vlaanderen</foaf:name>
+            </rdf:Description>
+        </schema:affiliation>
+        <foaf:firstName>Geert</foaf:firstName>
+        <foaf:lastName>Thijs</foaf:lastName>
+        <foaf:mbox rdf:resource="mailto:geert.thijs@kb.vlaanderen.be"/>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="genid39">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+        <schema:affiliation>
+            <rdf:Description rdf:nodeID="genid40">
+                <foaf:homepage rdf:resource="https://overheid.vlaanderen.be/informatie-vlaanderen"/>
+                <foaf:name>Informatie Vlaanderen</foaf:name>
+            </rdf:Description>
+        </schema:affiliation>
+        <foaf:firstName>Veerle</foaf:firstName>
+        <foaf:lastName>Beyaert</foaf:lastName>
+        <foaf:mbox rdf:resource="mailto:veerle.beyaert@kb.vlaanderen.be"/>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="genid41">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+        <schema:affiliation>
+            <rdf:Description rdf:nodeID="genid42">
+                <foaf:homepage rdf:resource="https://overheid.vlaanderen.be/informatie-vlaanderen"/>
+                <foaf:name>Informatie Vlaanderen</foaf:name>
+            </rdf:Description>
+        </schema:affiliation>
+        <foaf:firstName>Ruben</foaf:firstName>
+        <foaf:lastName>Capiau</foaf:lastName>
+        <foaf:mbox rdf:resource="mailto:ruben.capiau@kb.vlaanderen.be"/>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="genid43">
+        <foaf:homepage rdf:resource="https://data.vlaanderen.be"/>
+        <foaf:mbox rdf:resource="mailto:oslo@kb.vlaanderen.be"/>
+        <foaf:name>Data Vlaanderen</foaf:name>
+    </rdf:Description>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    <rdf:Description rdf:about="http://www.w3.org/2000/01/rdf-schema#label">
+        <rdfs:label xml:lang="nl">label</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.w3.org/ns/locn#addressArea">
+        <rdfs:label xml:lang="nl">adresgebied</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.w3.org/ns/locn#adminUnitL2">
+        <rdfs:label xml:lang="nl">administratieve eenheid niveau 2</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.w3.org/ns/locn#fullAddress">
+        <rdfs:label xml:lang="nl">volledig adres</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.w3.org/ns/locn#locatorName">
+        <rdfs:label xml:lang="nl">locatienaam</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.w3.org/ns/locn#poBox">
+        <rdfs:label xml:lang="nl">postbus</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.w3.org/ns/locn#postCode">
+        <rdfs:label xml:lang="nl">postcode</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.w3.org/ns/locn#thoroughfare">
+        <rdfs:label xml:lang="nl">straatnaam</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.w3.org/ns/prov#wasAttributedTo">
+        <rdfs:label xml:lang="nl">toegeschreven aan</rdfs:label>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 5.1.11) https://github.com/owlcs/owlapi/ -->
+
+

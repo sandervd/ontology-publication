@@ -1,0 +1,39 @@
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+<..\index-en.html> a prov:Entity;
+	 dc:title "Address";
+	 prov:wasAttributedTo :agent0;
+	 prov:wasAttributedTo :agent1;
+	 prov:wasAttributedTo :agent2;
+	 prov:wasAttributedTo :agent3;
+	 prov:wasAttributedTo :agent4;
+	 prov:wasAttributedTo :agent5;
+	 prov:wasAttributedTo :agent6;
+	 prov:wasAttributedTo :agent7;
+	 prov:wasAttributedTo :agent8;
+	 prov:wasAttributedTo :agent9;
+	 prov:wasAttributedTo :agent10;
+	 prov:wasAttributedTo :agent11;
+	 prov:wasAttributedTo :agent12;
+	 prov:wasAttributedTo :agent13;
+	 prov:wasAttributedTo :agent14;
+	 prov:wasAttributedTo :agent15;
+	 prov:wasAttributedTo <https://github.com/dgarijo/Widoco/>,<http://www.essepuntato.it/lode/>;
+.
+:agent0 a prov:Agent; foaf:name "_:genid-nodeid-g47239574447240".
+:agent1 a prov:Agent; foaf:name "_:genid-nodeid-g47239575576140".
+:agent2 a prov:Agent; foaf:name "_:genid-nodeid-g47239576880300".
+:agent3 a prov:Agent; foaf:name "_:genid-nodeid-g47239579054580".
+:agent4 a prov:Agent; foaf:name "_:genid-nodeid-g47239579202420".
+:agent5 a prov:Agent; foaf:name "_:genid-nodeid-g47239579233260".
+:agent6 a prov:Agent; foaf:name "_:genid-nodeid-g47239579854400".
+:agent7 a prov:Agent; foaf:name "_:genid-nodeid-g47239579900500".
+:agent8 a prov:Agent; foaf:name "_:genid-nodeid-g47239579932060".
+:agent9 a prov:Agent; foaf:name "_:genid-nodeid-g47239580185120".
+:agent10 a prov:Agent; foaf:name "_:genid-nodeid-g47239580381420".
+:agent11 a prov:Agent; foaf:name "_:genid-nodeid-g47239580453100".
+:agent12 a prov:Agent; foaf:name "_:genid-nodeid-g47239580518100".
+:agent13 a prov:Agent; foaf:name "_:genid-nodeid-g47239580734160".
+:agent14 a prov:Agent; foaf:name "_:genid-nodeid-g47239580892120".
+:agent15 a prov:Agent; foaf:name "_:genid-nodeid-g47239580899100".
