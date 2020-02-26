@@ -1,7 +1,7 @@
 before_install:
   - wget https://github.com/dgarijo/Widoco/releases/download/v1.4.13/widoco-1.4.13-jar-with-dependencies.jar -O widoco.jar
 script:
-  - widoco.jar -ontFile ontology.rdf -includeImportedOntologies -includeAnnotationProperties
+  - java -jar widoco.jar -ontFile ontology.rdf -includeImportedOntologies -includeAnnotationProperties
 
 deploy:
   provider: pages
